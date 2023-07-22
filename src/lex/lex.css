@@ -1,0 +1,22 @@
+.lex {
+	border: 1px solid black;
+  border-radius: 4px;
+  min-inline-size: 200px;
+	min-block-size: 30px;
+	display: flex;
+  align-items: center;
+  padding-inline: 4px;
+  padding-block: 2px;
+}
+
+.mention-node {
+  border: 1px solid #1b75ba;
+  border-radius: 4px;
+  background-color: #d9eeff;
+  margin-inline: 2px;
+  padding-inline: 2px;
+}
+
+p {
+  margin: 0;
+}
